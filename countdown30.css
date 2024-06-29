@@ -19,16 +19,19 @@
  cursor: pointer;
 }
 .content{
- top: 50%;
+bottom: 150PX;
  position: absolute;
  color: #fff;
+ margin-top: 200px;
 }
 .content h1{
- font-size: 90px;
- font-weight: 600;
+ font-size: 50px;
+ font-weight: 200;
+
 }
 .content h1 span{
  color: aqua;
+
 }
 .content button{
  background: transparent;
@@ -47,7 +50,7 @@
 }
 
 .Launch-time div p{
- font-size: 40px;
+ font-size: 30px;
  margin-bottom: 25px;
  margin-top: 10px;
 
